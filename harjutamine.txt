@@ -1,5 +1,5 @@
 GitHub on tarkvaraarenduse ja koostöö platvorm, mida kasutavad arendajad ja ettevõtted koodi haldamiseks ja projektide jagamiseks.
 
-Mina saan kasutada Github'i kõikjal kus on ligipääs internetile, nii koolis kui ka kodus.
+# Mina saan kasutada Github'i kõikjal kus on ligipääs internetile, nii koolis kui ka kodus.
 
-GitHub asutati 2008. aastal Chris Wanstrathi ja Tom Preston-Werneri poolt.
+# GitHub asutati 2008. aastal Chris Wanstrathi ja Tom Preston-Werneri poolt.
